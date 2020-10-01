@@ -43,23 +43,3 @@ Per dettagli tecnici su competenze e CV completo, puoi far riferimento al mio [p
 * LinkedIn: [linkedin.com/in/andreamargiovanni](https://www.linkedin.com/in/andreamargiovanni/)
 * Twitter: [twitter.com/stramargio](https://twitter.com/stramargio)
 * Email: [andrea@margiovanni.com](mailto:andrea@margiovanni.com)
-
-## pubkey.asc
-
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-Version: OpenPGP.js v4.10.4
-Comment: https://openpgpjs.org
-
-xjMEXxWxvRYJKwYBBAHaRw8BAQdAKq4xo614w3XNPUsSNxvtNzij/fPNvDsQ
-yfZqrgNSwePNL2FuZHJlYUBtYXJnaW92YW5uaS5jb20gPGFuZHJlYUBtYXJn
-aW92YW5uaS5jb20+wngEEBYKACAFAl8Vsb0GCwkHCAMCBBUICgIEFgIBAAIZ
-AQIbAwIeAQAKCRCbfLgN+mWhBTwoAQCeImE2cGQ+t6H/aLEdZH5/PmukVjJ6
-EG6Fghz3zi3YrgEAoa1ERZiGuDBhsUD6u5XwLoq1ANeZ3zIuzc2J0DJCeQTO
-OARfFbG9EgorBgEEAZdVAQUBAQdAgTehDL6EPUKSUnFLm2gYq/wrd6BhBGPc
-iv40FSh7m1EDAQgHwmEEGBYIAAkFAl8Vsb0CGwwACgkQm3y4DfploQVs9wEA
-yheEGlrvGD7LO9bOT++ptbPJiWhNhMjGrtQmdjhEl+cA/jR43i3eU6ODHoeP
-bkWDFuQVZKoejl1x0f2wpNZggiML
-=A1bW
------END PGP PUBLIC KEY BLOCK-----
-```
