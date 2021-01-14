@@ -35,7 +35,6 @@ Per dettagli tecnici su competenze e CV completo, puoi far riferimento al mio [p
 
 **(Dove sono? Facciamo due chiacchiere?)**
 
-* Signal: [+393314453323](sgnl://text?+393314453323)
 * Telegram: [t.me/stramargio](https://t.me/stramargio)
 * Github: [github.com/stramargio](https://github.com/stramargio)
 * LinkedIn: [linkedin.com/in/andreamargiovanni](https://www.linkedin.com/in/andreamargiovanni/)
