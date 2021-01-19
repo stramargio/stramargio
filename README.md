@@ -1,16 +1,7 @@
-## whoami
+## Chi sono
 
-**(Chi sono?)**
-
-> Nerd, appassionato di tecnologia e amante del pensiero positivo ;)
-
-Ciao! Io sono Andrea.
-
-Vivo sulla costa abruzzese.
-
-Amo la tecnologia, la lettura di libri di autori classici, l'alternative music (Radiohead).
-
-Non sono un *animale sociale* ma una volta che hai il mio affetto non ti è permesso di liberarti facilmente di me ;)
+Consulente ICT. Aiuto persone e aziende a raggiungere obiettivi e risolvere problemi.
+Amante dell'Agile e della comunicazione chiara. Rigoroso rispetto dei requirements.
 
 
 ## ps ax | grep me
