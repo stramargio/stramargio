@@ -1,8 +1,6 @@
 ## Chi sono
 
-Consulente ICT. Aiuto persone e aziende a raggiungere obiettivi e risolvere problemi.
-
-Amante dell'Agile e della comunicazione chiara. Ho un rigoroso rispetto dei requirements.
+Consulente ICT. Aiuto persone e aziende a raggiungere obiettivi e risolvere problemi. Amante dell'Agile e della comunicazione chiara. Ho un rigoroso rispetto dei requirements.
 
 
 ## Cosa faccio
@@ -11,8 +9,6 @@ Aiuto le aziende a sfruttare al meglio le tecnologie informatiche e le nuove met
 
 ## Conosciamoci
 
-Prendiamoci 30 minuti per una chiacchierata informale, conoscitiva e gratuita.
-
-Oppure, se sai già cosa ti serve, prenota subito una consulenza.
+Prendiamoci 30 minuti per una chiacchierata informale, conoscitiva e gratuita. Oppure, se sai già cosa ti serve, prenota subito una consulenza.
 
 [Prendi subito un appuntamento](https://link.margio.in/booking) 👈
