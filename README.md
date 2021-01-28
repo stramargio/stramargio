@@ -11,4 +11,4 @@ Aiuto le aziende a sfruttare al meglio le tecnologie informatiche e le nuove met
 
 Prendiamoci 30 minuti per una chiacchierata informale, conoscitiva e gratuita. Oppure, se sai già cosa ti serve, prenota subito una consulenza.
 
-[**Prendi subito un appuntamento**](https://link.margio.in/booking) 👈
+[**Prendi subito un appuntamento**](mailto:andrea@margiovanni.com) 👈
