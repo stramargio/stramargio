@@ -9,8 +9,8 @@
 # Parameters for source and destination for the Image file
 # Current script is edited to put the same image on LockScreen and Wallpaper
 
-$WallpaperURL = "WALLPAPERURL" # Change to your fitting
-$LockscreenUrl = "LOCKSCREENURL" # Change to your fitting
+$WallpaperURL = "https://raw.githubusercontent.com/stramargio/stramargio/master/back.jpg" # Change to your fitting
+$LockscreenUrl = "https://raw.githubusercontent.com/stramargio/stramargio/master/back.jpg" # Change to your fitting
 
 $ImageDestinationFolder = "c:\temp" # Change to your fitting - this is the folder for the wallpaper image
 $WallpaperDestinationFile = "$ImageDestinationFolder\wallpaper.png" # Change to your fitting - this is the Wallpaper image
