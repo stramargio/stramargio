@@ -23,7 +23,7 @@ md $ImageDestinationFolder -erroraction silentlycontinue
 Start-BitsTransfer -Source $WallpaperURL -Destination "$WallpaperDestinationFile"
 Start-BitsTransfer -Source $LockscreenUrl -Destination "$LockScreenDestinationFile"
 
-# Assigns the wallpaper 
+# Assigns the wallpaper
 $RegKeyPath = 'HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\PersonalizationCSP'
 
 $DesktopPath = "DesktopImagePath"
@@ -34,7 +34,7 @@ $LockScreenStatus = "LockScreenImageStatus"
 $LockScreenUrl = "LockScreenImageUrl"
 
 $StatusValue = "1"
-$DesktopImageValue = "$WallpaperDestinationFile"  
+$DesktopImageValue = "$WallpaperDestinationFile"
 $LockScreenImageValue = "$LockScreenDestinationFile"
 
 IF(!(Test-Path $RegKeyPath))
