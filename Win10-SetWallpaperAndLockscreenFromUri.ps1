@@ -13,8 +13,8 @@ $WallpaperURL = "https://raw.githubusercontent.com/stramargio/stramargio/master/
 $LockscreenUrl = "https://raw.githubusercontent.com/stramargio/stramargio/master/back.jpg" # Change to your fitting
 
 $ImageDestinationFolder = "c:\temp" # Change to your fitting - this is the folder for the wallpaper image
-$WallpaperDestinationFile = "$ImageDestinationFolder\wallpaper.png" # Change to your fitting - this is the Wallpaper image
-$LockScreenDestinationFile = "$ImageDestinationFolder\LockScreen.png" # Change to your fitting - this is the Lockscreen image
+$WallpaperDestinationFile = "$ImageDestinationFolder\wallpaper.jpg" # Change to your fitting - this is the Wallpaper image
+$LockScreenDestinationFile = "$ImageDestinationFolder\LockScreen.jpg" # Change to your fitting - this is the Lockscreen image
 
 # Creates the destination folder on the target computer
 md $ImageDestinationFolder -erroraction silentlycontinue
