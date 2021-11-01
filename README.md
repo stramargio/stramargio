@@ -1,14 +1,4 @@
-## Chi sono
-
-Consulente ICT. Aiuto persone e aziende a raggiungere obiettivi e risolvere problemi. Amante dell'Agile e della comunicazione chiara. Ho un rigoroso rispetto dei requirements.
-
-
-## Cosa faccio
-
-Aiuto le aziende a sfruttare al meglio le tecnologie informatiche e le nuove metologie di lavoro per raggiungere determinati obiettivi di business.
-
-## Conosciamoci
-
-Qui trovi i link per contattarmi: [www.margiovanni.com](https://www.margiovanni.com)
-
-🤙🏻
+  <div class="container info1">
+    <p class="lead">Hi, I'm <strong>Andrea Margiovanni</strong>: an italian guy, music lover, IT addicted. I do stuffs with computer & humans and sometimes write about it here. I'm living in Pescara (Italy) spending my working time as CTO in <a href="https://www.anthis.it">Anthis</a>.</p>
+    <p class="lead">Feel free to say me "hello!" on <a href="https://matrix.to/#/@stramargio:matrix.org">Matrix</a>, <a rel="me" href="https://margio.in/@andrea">Mastodon</a>, <a href="https://twitter.com/stramargio">Twitter</a> or by <a href="mailto:andrea@margiovanni.com">mail</a>.</p>
+  </div>
