@@ -1,5 +1,5 @@
   <div class="container info1">
-    <p class="lead">Ciao, io sono <strong>Andrea Margiovanni</strong></p>
+    <h1>Ciao, io sono <strong>Andrea Margiovanni</strong></h1>
   <br>
   <h2>Chi Sono</h2>
   <p>Scrum Master Certified, DPO, consulente IT, web & security.</p>
