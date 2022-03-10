@@ -1,4 +1,10 @@
   <div class="container info1">
-    <p class="lead">Hi, I'm <strong>Andrea Margiovanni</strong>: an italian guy, music lover, IT addicted. I do stuffs with computer & humans and sometimes write about it here. I'm living in Pescara (Italy) spending my working time as IT Manager, Agile Consultant.</p>
-    <p class="lead">Feel free to say me "hello!" on <a href="https://twitter.com/stramargio">Twitter</a> or by <a href="mailto:andrea@margiovanni.com">mail</a>.</p>
+    <p class="lead">Ciao, io sono <strong>Andrea Margiovanni</strong></p>
+  <br>
+  <h2>Chi Sono</h2>
+  <p>Scrum Master Certified, DPO, consulente IT, web & security.</p>
+  <h2>Cosa faccio</h2>
+  <p>Consulenza per siti web, privacy, trasformazione digitale, lavoro agile, sicurezza.</p>
+  <h2>Contattami</h2>
+    <p class="lead">Sentiti pure libero di contattarmi su <a href="https://www.linkedin.com/in/andreamargiovanni/">LinkedIn</a> o tramite <a href="mailto:andrea@margiovanni.com">e-mail</a>.</p>
   </div>
