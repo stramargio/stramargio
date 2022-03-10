@@ -1,10 +1,6 @@
   <div class="container info1">
     <h1>Ciao, io sono <strong>Andrea Margiovanni</strong></h1>
-  <br>
-  <h2>Chi Sono</h2>
-  <p>Scrum Master Certified, DPO, consulente IT, web & security.</p>
-  <h2>Cosa faccio</h2>
-  <p>Consulenza per siti web, privacy, trasformazione digitale, lavoro agile, sicurezza.</p>
-  <h2>Contattami</h2>
-    <p class="lead">Sentiti pure libero di contattarmi su <a href="https://www.linkedin.com/in/andreamargiovanni/">LinkedIn</a> o tramite <a href="mailto:andrea@margiovanni.com">e-mail</a>.</p>
+  <p><strong>Chi sono:</strong> Scrum Master Certified, DPO, consulente IT, web & security.</p>
+  <p><strong>Cosa faccio:</strong> consulenza per siti web, privacy, trasformazione digitale, lavoro agile, sicurezza.</p>
+  <p class="lead"><strong>Contattami:</strong> sentiti pure libero di contattarmi su <a href="https://www.linkedin.com/in/andreamargiovanni/">LinkedIn</a> o tramite <a href="mailto:andrea@margiovanni.com">e-mail</a>.</p>
   </div>
