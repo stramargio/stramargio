@@ -5,7 +5,7 @@
   Mail: <a href="mailto:andrea@margiovanni.com">andrea@margiovanni.com</a><br />
   Fediverse: <a href="https://indieweb.social/@margio" rel="me">https://indieweb.social/@margio</a><br />
   LinkedIn <a href="https://www.linkedin.com/in/andreamargiovanni/">linkedin.com/andreamargiovanni</a><br />
-  Messaging: @margio:matrix.org
+  Messaging: <a href="https://matrix.to/#/@margio:matrix.org">@margio:matrix.org</a>
 </p>
 <br />
 <pre>
