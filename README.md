@@ -8,7 +8,6 @@
   Messaging: @margio:matrix.org
 </p>
 <br />
-<p>PGP Public Key:</p>
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
   
