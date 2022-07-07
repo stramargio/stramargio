@@ -3,7 +3,7 @@
 <p><strong>Cosa faccio:</strong> consulenza per siti web, privacy, trasformazione digitale, lavoro agile, sicurezza.</p>
 <p class="lead">
   Mail: <a href="mailto:andrea@margiovanni.com">andrea@margiovanni.com</a><br />
-  Fediverse: <a href="https://indieweb.social/@margio" rel="me">https://indieweb.social/@margio</a><br />
+  Twitter: <a href="https://twitter.com/stramargio" rel="me">https://twitter.com/stramargio</a><br />
   LinkedIn <a href="https://www.linkedin.com/in/andreamargiovanni/">linkedin.com/andreamargiovanni</a>
 </p>
 <br />
