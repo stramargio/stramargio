@@ -4,7 +4,6 @@
 <p class="lead">
   Mail: <a href="mailto:andrea@margiovanni.com">andrea@margiovanni.com</a><br />
   Twitter: <a href="https://twitter.com/stramargio" rel="me">twitter.com/stramargio</a><br />
-  Matrix Chat: <a href="https://matrix.to/#/@margio:sferait.org" rel="me">matrix.to/@margio:sferait.org</a><br />
   LinkedIn <a href="https://www.linkedin.com/in/andreamargiovanni/">linkedin.com/andreamargiovanni</a>
 </p>
 <br />
