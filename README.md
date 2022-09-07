@@ -4,6 +4,6 @@
 <p class="lead">
   Mail: <a href="mailto:andrea@margiovanni.com">andrea@margiovanni.com</a><br />
   Social: <a href="https://sociale.network/@margio" rel="me">sociale.network/@margio</a><br />
-  Work: <a href="https://www.linkedin.com/in/andreamargiovanni/">linkedin.com/andreamargiovanni</a>
+  Work: <a href="https://www.linkedin.com/in/andreamargiovanni/">linkedin.com/andreamargiovanni</a><br />
   Chat: <a href="https://matrix.to/#/@margio:sferait.org">@margio:sferait.org</a>
 </p>
