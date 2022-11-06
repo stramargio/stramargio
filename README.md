@@ -3,4 +3,4 @@
 <p>::ffff:7f00:1 -> 🇮🇹 Italy.</p>
 <p>🫂❤️ -> a beautiful wife and a fluffy cat.</p>
 <br />
-<p>You can find me on <a rel="me" href="https://infosec.exchange/@margio">Fediverse</a>, too.</p>
+<p>You can find me on <a rel="me" href="https://infosec.exchange/@margio">infosec.exchange/@margio</a>, too.</p>
