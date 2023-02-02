@@ -3,6 +3,5 @@
 <p>::ffff:7f00:1 -> 🇮🇹 Italy.</p>
 <p>🫂❤️ -> a beautiful wife and a fluffy cat.</p>
 <br />
-<p>You can find me on [https://words.margio.de/@andrea](https://vmst.io/@margio), too.</p>
 
 👋🏻
