@@ -1,7 +1,7 @@
 <h1>Hi! I'm <strong>Andrea Margiovanni</strong></h1>
-<p>SMC, DPO, Digital Consultant, Augmented Reality Specialist, Business Analyst, Web & Security.</p>
-<p>::ffff:7f00:1 -> 🇮🇹 Italy.</p>
-<p>🫂❤️ -> a beautiful wife and a fluffy cat.</p>
+<p>Born at a very young age. 'Am doing IT stuffs.</p>
+<p>::ffff:7f00:1 -> Italy, Europe.</p>
+<p>To read my content and to interact with me, follow <strong>andrea@margio.ddns.net</strong> in the Fediverse.</p>
 <br />
 
 👋🏻
